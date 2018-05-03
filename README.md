@@ -20,9 +20,9 @@ You don't need to do anthing. It automatically adds itself in the status bar.
 
 ## Available commands
 
-* **File Access: Change File Access** Choose the new File Access
-* **File Access: Make Read-only** Make the file Read-Only
-* **File Access: Make Writeable** Make the file Writeable
+* **File Access: Change File Access** Choose the new File Access (MacOS Only)
+* **File Access: Make Read-only** Make the file Read-Only (MacOS Only)
+* **File Access: Make Writeable** Make the file Writeable (MacOS Only)
 
 ![Commands](images/read-only-commands.png)
 
