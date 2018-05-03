@@ -1,5 +1,5 @@
 # Functionality
-
+MacOS Only (High Sierra)
 Adds a status bar indicating if a file is read-only or writeable.
 
 # Installation
