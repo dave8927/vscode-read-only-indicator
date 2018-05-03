@@ -15,7 +15,7 @@ function activate(ctx) {
     ctx.subscriptions.push(controller);
     ctx.subscriptions.push(readOnlyIndicator);
     function updateFileAccess(newFileAccess) {
-        // Windows only
+        // Mac only
         if (process.platform !== "darwin") {
             vscode_1.window.showInformationMessage("This command is only supported in MacOS");
             return;
