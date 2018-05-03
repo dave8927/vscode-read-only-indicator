@@ -2,8 +2,8 @@
 	"name": "read-only-indicator",
 	"displayName": "Status Bar Read-Only Indicator",
 	"description": "Read-Only/Writeable indication on Status Bar",
-	"version": "0.7.0",
-	"publisher": "alefragnani",
+	"version": "0.0.1",
+	"publisher": "dave8927",
 	"galleryBanner": {
 		"color": "#0000FF",
 		"theme": "dark"
@@ -16,10 +16,10 @@
 		"vscode": "^1.12.0"
 	},
     "license": "SEE LICENSE IN LICENSE.md",
-	"homepage": "https://github.com/alefragnani/vscode-read-only-indicator/blob/master/README.md",
+	"homepage": "https://github.com/dave8927/vscode-read-only-indicator/blob/master/README.md",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/alefragnani/vscode-read-only-indicator.git"
+		"url": "https://github.com/dave8927/vscode-read-only-indicator.git"
 	},
 	"bugs": {
 		"url": "https://github.com/alefragnani/vscode-read-only-indicator/issues"
