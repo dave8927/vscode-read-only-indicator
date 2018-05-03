@@ -1,6 +1,7 @@
 # Functionality
-MacOS Only (High Sierra)
 Adds a status bar indicating if a file is read-only or writeable.
+
+MacOS Only (High Sierra) - Allows changing of write permission on MacOS
 
 # Installation
 
