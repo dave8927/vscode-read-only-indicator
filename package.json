@@ -13,7 +13,7 @@
 	],
 	"icon": "images/icon.png",
 	"engines": {
-		"vscode": "^1.12.0"
+		"vscode": "^1.23.0"
 	},
     "license": "SEE LICENSE IN LICENSE.md",
 	"homepage": "https://github.com/dave8927/vscode-read-only-indicator/blob/master/README.md",
@@ -22,7 +22,7 @@
 		"url": "https://github.com/dave8927/vscode-read-only-indicator.git"
 	},
 	"bugs": {
-		"url": "https://github.com/alefragnani/vscode-read-only-indicator/issues"
+		"url": ""
 	},
 	"activationEvents": [
 		"*"

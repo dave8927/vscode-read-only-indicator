@@ -62,10 +62,10 @@ function activate(ctx) {
                 return;
             }
             if (selection.label === "File Access: Make Read Only") {
-                updateFileAccess("+R");
+                updateFileAccess("u-w");
             }
             else {
-                updateFileAccess("-R");
+                updateFileAccess("u+w");
             }
         });
     }
